@@ -12,4 +12,4 @@ The Sizes came already interpreted on the original dataset because they come fro
 I split or data in 3 parts 80% for training, 20% for evaluation and 20% for test.
 
 ### Model
-The model used was a simples MLP using tensorflow and 5 dense layers with a decreasing unity quantity.
+The model used was a simple MLP using tensorflow and 5 dense layers with activation relu and a decreasing unity quantity. 
